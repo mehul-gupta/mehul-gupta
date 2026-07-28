@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Welcome to my github profile👋</h1>
+<h1 data-importer="text" align="center">Code. Design. Innovate.</h1>
 
 ###
 <div data-importer="techs" align="center">
